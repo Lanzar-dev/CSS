@@ -1,0 +1,32 @@
+body h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+}
+
+li {
+    font-size: 2.5em;
+}
+
+ul .first {
+    list-style-image: url("img/ManU.png");
+   
+}
+
+ul .second {
+    list-style-image: url("img/ManCity.png");
+}
+
+ul .third {
+    list-style-image: url("img/Liverpool.png");
+}
+
+ul .fourth {
+    list-style-image: url("img/Chelsea.png");
+}
+
+ul .fifth {
+    list-style-image: url("img/Arsenal.png");
+}
